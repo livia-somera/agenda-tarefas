@@ -1,6 +1,6 @@
 <h1 align="center">Agenda de Tarefas</h1>
 
-<p align="center">Projeto de uma agenda de tarefas desenvolvido durante o curso de React da Alura</p>
+<p align="center">Projeto de uma agenda de tarefas desenvolvido durante o curso Fundamentos de React: escrevendo com TypeScript da Alura</p>
 <br>
 
 ## 💻 Tecnologias 
