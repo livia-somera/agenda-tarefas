@@ -5,10 +5,10 @@
 
 ## 💻 Tecnologias 
 - TypeScript
+- ReactJS
 - HTML
 - CSS
 - SCSS
-- ReactJS
 
 <br>
 
